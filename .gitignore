@@ -1,0 +1,6 @@
+registry_snapshot.json
+run_log.txt
+__pycache__/
+*.pyc
+.DS_Store
+opt_out.txt

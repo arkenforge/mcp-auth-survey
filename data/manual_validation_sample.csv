@@ -1,0 +1,26 @@
+url,operator_domain,registry_name,title,repo,website
+https://hebertmagic.com/api/mcp,hebertmagic.com,com.hebertmagic/booking,com.hebertmagic/booking,,
+https://gateway.pipeworx.io/close-crm/mcp,pipeworx.io,io.github.pipeworx-io/close-crm,Close Crm,https://github.com/pipeworx-io/mcp-close-crm,https://pipeworx.io/packs/close-crm
+https://mcp.rapid-indexer.com/mcp,rapid-indexer.com,com.rapid-indexer/mcp,Rapid Indexer,https://github.com/rollounden/rapid-indexer-mcp,https://rapid-indexer.com/mcp/
+https://channable.usefulapi.io/mcp,usefulapi.io,io.usefulapi/channable,Channable MCP by usefulapi,https://github.com/m190/usefulapi-mcp,https://usefulapi.io/channable/
+https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/leap-ok/mcp,workers.dev,io.github.sadri-dridi/leap-ok,Gregorian leap-year band,https://github.com/sadri-dridi/named-mcp-utilities,
+https://agentel.tech/mcp,agentel.tech,io.github.agentel-tech/agentel,Agentel Network,,https://agentel.tech/lab/mcp
+https://docs.nyuchi.com/mcp,nyuchi.com,io.github.nyuchi/nyuchi-docs,io.github.nyuchi/nyuchi-docs,https://github.com/nyuchi/nyuchi-docs,https://docs.nyuchi.com/integrations/docs-mcp/
+https://royashbrook.com/hush,royashbrook.com,com.royashbrook/hush,hush,https://github.com/royashbrook/hush,
+https://api.mcp.ai/p_midway,mcp.ai,io.github.mcp-dir/midway-mcp,Midway MCP,https://github.com/mcp-dir/midway-mcp,
+https://gateway.pipeworx.io/sportmonks/mcp,pipeworx.io,io.github.pipeworx-io/sportmonks,Sportmonks,https://github.com/pipeworx-io/mcp-sportmonks,https://pipeworx.io/packs/sportmonks
+https://api.mcp.ai/p_tribunal_trt7_ceat,mcp.ai,io.github.mcp-dir/tribunal_trt7_ceat-mcp,Tribunal TRT7: Certidão Eletrônica de Ações Trabalhistas (CEAT),https://github.com/mcp-dir/tribunal_trt7_ceat-mcp,
+https://vouch.futuronoti.workers.dev/mcp,workers.dev,io.github.notifuturo/vouch,io.github.notifuturo/vouch,https://github.com/notifuturo/vouch,
+https://kiotviet.usefulapi.io/mcp,usefulapi.io,io.usefulapi/kiotviet,KiotViet MCP by usefulapi,https://github.com/m190/usefulapi-mcp,https://usefulapi.io/kiotviet/
+https://grader-al6bxcngia-ue.a.run.app/mcp,run.app,io.github.theharrisontruong-web/storefront-grader,AI Storefront Readiness Grader,https://github.com/theharrisontruong-web/agent-apis,https://grader-al6bxcngia-ue.a.run.app
+https://mcp.ainpcengine.com/mcp,ainpcengine.com,io.github.jyswee/ainpc-cli,io.github.jyswee/ainpc-cli,https://github.com/jyswee/ainpc-cli,https://ainpcengine.com
+https://gateway.pipeworx.io/github/mcp,pipeworx.io,io.github.pipeworx-io/github,Github,https://github.com/pipeworx-io/mcp-github,https://pipeworx.io/packs/github
+https://collabpls.com/mcp,collabpls.com,com.collabpls/mcp,CollabPls,,
+https://earthquake-monitor-mcp.mcpize.run/mcp,mcpize.run,io.github.varvararatta/earthquake_monitor_mcp,Earthquake Monitor Mcp,https://github.com/varvararatta/botfactory-mcp,
+https://mcp.vanshul.com/mcp,vanshul.com,io.github.vanshulgoyal101/mcp,io.github.vanshulgoyal101/mcp,https://github.com/vanshulgoyal101/mcp,https://mcp.vanshul.com
+https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/cuid-shape/mcp,workers.dev,io.github.sadri-dridi/cuid-shape,CUID shape check,https://github.com/sadri-dridi/named-mcp-utilities,
+https://llms.penguindriver.com/mcp,penguindriver.com,com.penguindriver/llms,llms.txt 檢查工具,,https://llms.penguindriver.com
+https://umxgvoxlxznnpdvkgnaj.supabase.co/functions/v1/mcp,supabase.co,io.github.foodyogi/ideaflow-scorer,Ideabob Validation,https://github.com/foodyogi/ideaflow-scorer,https://ideabob.com/mcp
+https://gateway.pipeworx.io/nypl/mcp,pipeworx.io,io.github.pipeworx-io/nypl,Nypl,https://github.com/pipeworx-io/mcp-nypl,https://pipeworx.io/packs/nypl
+https://veladeck.com/mcp,veladeck.com,com.veladeck/veladeck,VelaDeck,,https://veladeck.com
+https://agent-observatory-sensor.nolimit-observatory.workers.dev/s/gh-topic-ok/mcp,workers.dev,io.github.sadri-dridi/gh-topic-ok,"GitHub topic slug charset, value discarded",https://github.com/sadri-dridi/named-mcp-utilities,
